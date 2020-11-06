@@ -12,9 +12,9 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://caozhiming.tk)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=caozhiming.tk&url=https%3a%2f%2caozhiming.tk)](https://caozhiming.tk)
 [![](https://img.shields.io/badge/python-v3.9-blue)](https://python.org)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
