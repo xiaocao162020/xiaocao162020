@@ -1,4 +1,4 @@
-<h1 align="center">你好，我叫<a href="https://caozhiming.tk/">曹智铭</a>，也可以称呼为“小曹162020”！</h1>
+<h1 align="center">你好，我叫<a href="https://caozhiming.tk/">曹智铭</a>！</h1>
 <h2 align="center">一个热爱编程的初中生</h2>
 
 
