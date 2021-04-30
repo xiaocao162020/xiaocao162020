@@ -31,4 +31,4 @@
 
 ## Organizations I have join
 
-[Fuider](https://github.com/fuider)
+[Fuider](https://github.com/fuider)  [Bugduck](https://github.com/Bug-Duck)
