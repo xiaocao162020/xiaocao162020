@@ -24,6 +24,9 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cao-zhiming)](https://github.com/cao-zhiming?tab=repositories)
+
+
 ## Visit my website
 
 [![](https://caozhiming.tk/wp-content/uploads/2020/09/%E6%97%A0%E6%A0%87%E9%A2%98.png)](https://caozhiming.tk)
