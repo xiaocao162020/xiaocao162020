@@ -25,7 +25,7 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cao-zhiming)](https://github.com/cao-zhiming?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-zhiming&exclude_repo=github-readme-stats,class-site)](https://github.com/cao-zhiming?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-zhiming&exclude_repo=github-readme-stats,class-site&hide=css)](https://github.com/cao-zhiming?tab=repositories)
 
 
 ## Organizations I have joined
