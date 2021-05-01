@@ -10,7 +10,7 @@
 <a href="https://caozhiming.tk"><p align="center">访问用户<br> <img src="https://profile-counter.glitch.me/xiaocao162020/count.svg" /></a>
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stats
 
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -25,13 +25,9 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cao-zhiming)](https://github.com/cao-zhiming?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-zhiming&exclude_repo=github-readme-stats,class-site)](https://github.com/cao-zhiming?tab=repositories)
 
 
-## Visit my website
-
-[![](https://caozhiming.tk/wp-content/uploads/2020/09/%E6%97%A0%E6%A0%87%E9%A2%98.png)](https://caozhiming.tk)
-
-
-## Organizations I have join
+## Organizations I have joined
 
 [Fuider](https://github.com/fuider)  [Bugduck](https://github.com/Bug-Duck)
