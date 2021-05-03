@@ -24,8 +24,8 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cao-zhiming)](https://github.com/cao-zhiming?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cao-zhiming&exclude_repo=github-readme-stats,class-site&hide=css)](https://github.com/cao-zhiming?tab=repositories)
+[![GitHub stats](https://czm-github-stats.vercel.app/api?username=cao-zhiming)](https://github.com/cao-zhiming?tab=repositories)
+[![Top Langs](https://czm-github-stats.vercel.app/api/top-langs/?username=cao-zhiming&exclude_repo=github-readme-stats,class-site&hide=css,ejs,stylus)](https://github.com/cao-zhiming?tab=repositories)
 
 
 ## Organizations I have joined
