@@ -1,5 +1,5 @@
 <h1 align="center">你好，我叫<a href="https://caozhiming.tk/">曹智铭</a>！</h1>
-<h2 align="center">一个热爱编程的初中生</h2>
+<h2 align="center">长期潜伏于caozhiming.tk的碳基生物。</h2>
 
 
 <p align="center">
